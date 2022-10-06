@@ -6,6 +6,10 @@ This is a simple theme changer developed using html, css and javascript which go
 
 ## Video
 
+https://user-images.githubusercontent.com/109405477/194355749-272318c5-a543-4103-984d-50db3bbb2889.mp4
+
+
+
 **Check it out at : https://themechangernow.netlify.app/**
 
 ## 🚀 About Me
